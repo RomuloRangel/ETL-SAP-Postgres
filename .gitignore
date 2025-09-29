@@ -2,3 +2,10 @@
 .env
 **/__pycache__/
 *.xlsx
+*.xls
+*.xlsm
+*.csv
+*.db
+*.sqlite3
+*.log
+
